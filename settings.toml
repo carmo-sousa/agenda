@@ -1,0 +1,11 @@
+[PRD]
+NAME="agenda-prd"
+
+[HML]
+NAME="agenda-hml"
+
+[DEV]
+NAME="agenda-dev"
+DB_URL="db"
+DB_USER=""
+DB_NAME=""

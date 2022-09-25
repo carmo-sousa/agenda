@@ -1,1 +1,32 @@
 # Agenda
+
+## Tabelas
+
+- Usuários
+  - id
+  - created_at
+  - updated_at
+- Tarefas
+  - id
+  - atividade
+  - descricao
+  - anexo
+  - inicio
+  - fim
+  - frequencia
+  - hora_alerta
+  - status
+  - created_at
+  - updated_at
+- Contatos
+  - id
+  - created_at
+  - updated_at
+- Atividades
+  - id
+  - created_at
+  - updated_at
+- Status
+  - id
+  - created_at
+  - updated_at
